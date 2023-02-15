@@ -8,7 +8,7 @@ Please put your names below
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
->>>>>>> Ronieric Borres
+>>>>>>> 20c93a67e76f03ffbf5f38c0656b86e5ee2be03c
 
 February 15, 2022
 
@@ -52,6 +52,7 @@ Faizza Billonid cutie
 >>>>>>> a6f639f7e7bc4b831f10e50946bfe42cf038158e
 <<<<<<< HEAD
 =======
+Mel kenneth Exclamador
 Ron Albert Sarigumba
 RAFAEL REGLO VIRTUDAZO
 IAN LAGE NI FINAL NANI JD PRAMIS MAKA PUSH NAJD KO
@@ -59,9 +60,7 @@ Jose Evagelous Lawenko II
 Trixy F. Lofranco
 <<<<<<< HEAD
 rr the mvp
-Xavier Bugtong
-Ferdinand Inchoco
-
+Mel kenneth Exclamador
 
 
 
