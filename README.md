@@ -26,6 +26,9 @@ February 15, 2022
 
 Daj Brian Bongo
 
+<<<<<<< HEAD
+Clyde Cutimar
+=======
 =======
 <<<<<<< HEAD
 
@@ -51,6 +54,9 @@ Faizza Billonid cutie
 =======
 Ron Albert Sarigumba
 RAFAEL REGLO VIRTUDAZO
+<<<<<<< HEAD
+>>>>>>> 7dbb7e4bebcdf5b44757e53c3d17e791c02aff64
+=======
 IAN LAGE NI FINAL NANI JD PRAMIS MAKA PUSH NAJD KO
 <<<<<<< HEAD
 
@@ -61,3 +67,4 @@ IAN LAGE NI FINAL NANI JD PRAMIS MAKA PUSH NAJD KO
 =======
 >>>>>>> b62a8c1d5a20d102bc535e1a844e19902417dcc7
 >>>>>>> 6a62f26c8682e7a93bc4a52e1a4448f5a12c5e42
+>>>>>>> 99de3e204bc4df9effd49f3a95af015040af6636
