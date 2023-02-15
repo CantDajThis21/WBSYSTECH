@@ -14,9 +14,11 @@ Daj Brian Bongo
 February 15, 2022
 
 Daj Brian Bongo
+
+=======
+<<<<<<< HEAD
+=======
 Charl Sumayod
 Mayjoy Cillo
 Faizza Billonid cutie
-John Mhico Tutor
-Jeza Mae R. Salazar
 >>>>>>> 8fab77d00f1e1d13f19d0d0292b81aa8d5df7e91
