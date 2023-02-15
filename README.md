@@ -18,6 +18,7 @@ Daj Brian Bongo
 =======
 <<<<<<< HEAD
 =======
+Clyde Cutimar
 Charl Sumayod
 Mayjoy Cillo
 Faizza Billonid cutie
