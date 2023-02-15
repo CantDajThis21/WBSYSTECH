@@ -7,6 +7,7 @@ Please put your names below
 
 February 15, 2022
 
+<<<<<<< HEAD
 Rancil Aurora —
 Clyde Cutimar —
 Charl Sumayod —
@@ -32,3 +33,4 @@ Ronieric Borres —
 Lyra Gleenith Nakila —
 Micah Kate Arayan — 
 Frederick Ramirez —
+
