@@ -19,7 +19,12 @@ Daj Brian Bongo
 <<<<<<< HEAD
 =======
 Charl Sumayod
+Charl Cutie
 Mayjoy Cillo
+<<<<<<< HEAD
+Faizza Billonid
+Ian Deliezo
+=======
 Faizza Billonid cutie
 gorny lagdameo
 >>>>>>> 8fab77d00f1e1d13f19d0d0292b81aa8d5df7e91
