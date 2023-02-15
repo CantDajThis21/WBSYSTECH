@@ -31,7 +31,8 @@ Ian Deliezo
 Faizza Billonid cutie
 
 IAN WAS HERE YOWP HAHAHAHA
-AKO LAGE NI SI IAN
+IAN DELIEZO :D
+
 
 >>>>>>> 8fab77d00f1e1d13f19d0d0292b81aa8d5df7e91
 >>>>>>> 26d85b68631075ca42743504470ba56cde644a12
