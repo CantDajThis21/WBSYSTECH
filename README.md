@@ -8,7 +8,7 @@ Please put your names below
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
->>>>>>> 20c93a67e76f03ffbf5f38c0656b86e5ee2be03c
+>>>>>>> Ronieric Borres
 
 February 15, 2022
 
