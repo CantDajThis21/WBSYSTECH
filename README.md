@@ -32,3 +32,4 @@ gorny lagdameo
 >>>>>>> 26d85b68631075ca42743504470ba56cde644a12
 >>>>>>> a6f639f7e7bc4b831f10e50946bfe42cf038158e
 Ron Albert Sarigumba
+RAFAEL REGLO VIRTUDAZO
