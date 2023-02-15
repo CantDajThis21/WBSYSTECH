@@ -2,17 +2,100 @@
 
 Hi this is Daj and today we will learn about branches! But before that we need to first clone this repository from the web. So please clone this and commit your name changes.
 
+
 Please put your names below
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 20c93a67e76f03ffbf5f38c0656b86e5ee2be03c
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> Ronieric Borres
+>>>>>>> c9c13a782d481aa1bf07c9aa373fa8b0e89ab7ef
+>>>>>>> 82f9ab1f9fa24fec9455df8df531ca48979360f8
 
 February 15, 2022
 
 Daj Brian Bongo
+<<<<<<< HEAD
+Lyra Gleenith Nakila
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lyra Gleenith Nakila
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
 
 Ram Fred
 =======
@@ -60,10 +143,14 @@ Jose Evagelous Lawenko II
 Trixy F. Lofranco
 <<<<<<< HEAD
 rr the mvp
+<<<<<<< HEAD
 Mel kenneth Exclamador
-
-
-
 =======
->>>>>>> b62a8c1d5a20d102bc535e1a844e19902417dcc7
->>>>>>> 6a62f26c8682e7a93bc4a52e1a4448f5a12c5e42
+Xavier Bugtong
+Ferdinand Inchoco
+>>>>>>> c9c13a782d481aa1bf07c9aa373fa8b0e89ab7ef
+
+>>>>>>> 82f9ab1f9fa24fec9455df8df531ca48979360f8
+
+
+
