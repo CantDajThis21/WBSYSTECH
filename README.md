@@ -5,6 +5,14 @@ Hi this is Daj and today we will learn about branches! But before that we need t
 Please put your names below
 <<<<<<< HEAD
 
+February 15, 2022
+
+Daj Brian Bongo
+
+Ram Fred
+=======
+<<<<<<< HEAD
+
 
 February 15, 2022
 
@@ -20,6 +28,11 @@ Clyde Cutimar
 =======
 =======
 <<<<<<< HEAD
+
+
+
+=======
+<<<<<<< HEAD
 =======
 Clyde Cutimar
 Charl Sumayod
@@ -30,10 +43,24 @@ Faizza Billonid
 Ian Deliezo
 =======
 Faizza Billonid cutie
-gorny lagdameo
 >>>>>>> 8fab77d00f1e1d13f19d0d0292b81aa8d5df7e91
 >>>>>>> 26d85b68631075ca42743504470ba56cde644a12
 >>>>>>> a6f639f7e7bc4b831f10e50946bfe42cf038158e
+<<<<<<< HEAD
+=======
 Ron Albert Sarigumba
 RAFAEL REGLO VIRTUDAZO
+<<<<<<< HEAD
 >>>>>>> 7dbb7e4bebcdf5b44757e53c3d17e791c02aff64
+=======
+IAN LAGE NI FINAL NANI JD PRAMIS MAKA PUSH NAJD KO
+<<<<<<< HEAD
+
+
+
+
+
+=======
+>>>>>>> b62a8c1d5a20d102bc535e1a844e19902417dcc7
+>>>>>>> 6a62f26c8682e7a93bc4a52e1a4448f5a12c5e42
+>>>>>>> 99de3e204bc4df9effd49f3a95af015040af6636
