@@ -3,6 +3,12 @@
 Hi this is Daj and today we will learn about branches! But before that we need to first clone this repository from the web. So please clone this and commit your name changes.
 
 Please put your names below
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 20c93a67e76f03ffbf5f38c0656b86e5ee2be03c
 
 February 15, 2022
 
@@ -17,6 +23,7 @@ February 15, 2022
 
 Daj Brian Bongo
 =======
+>>>>>>> 99de3e204bc4df9effd49f3a95af015040af6636
 Jeza Mae R. Salazar
 February 15, 2022
 
@@ -30,6 +37,7 @@ Daj Brian Bongo
 =======
 <<<<<<< HEAD
 =======
+Rancil Aurora
 Clyde Cutimar
 Charl Sumayod
 Charl Cutie
@@ -47,6 +55,7 @@ Faizza Billonid cutie
 Ron Albert Sarigumba
 RAFAEL REGLO VIRTUDAZO
 IAN LAGE NI FINAL NANI JD PRAMIS MAKA PUSH NAJD KO
+Jose Evagelous Lawenko II
 <<<<<<< HEAD
 
 
