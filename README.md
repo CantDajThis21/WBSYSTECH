@@ -7,5 +7,4 @@ Please put your names below
 February 15, 2022
 
 Daj Brian Bongo
-
-Micah
+Micah Kate Arayan
