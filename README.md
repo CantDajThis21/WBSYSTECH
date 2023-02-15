@@ -7,4 +7,3 @@ Please put your names below
 February 15, 2022
 
 Daj Brian Bongo
-Jm Salazar
