@@ -7,6 +7,7 @@ Please put your names below
 
 February 15, 2022
 
+<<<<<<< HEAD
 
 Trixy F. Lofranco —
 Xavier Bugtong —
@@ -23,6 +24,7 @@ Lyra Gleenith Nakila —
 Frederick Ramirez —
 Joshua Orozco —
 Christian Kent Gucela —
+=======
 Rancil Aurora —
 Clyde Cutimar —
 Charl Vincent Sumayod —
@@ -34,6 +36,7 @@ Ron Albert Sarigumba —
 Rafael Reglo Virtudazo —
 Jose Evagelous Lawenko II —
 
+>>>>>>> branch-2
 
 
 GOOD MORNING
