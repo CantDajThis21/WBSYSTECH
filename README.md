@@ -9,7 +9,6 @@ February 15, 2022
 
 Rancil Aurora —
 Clyde Cutimar —
-Charl Vincent Sumayod —
 Faizza Billonid —
 Ian Deliezo —
 Mel kenneth Exclamador —
