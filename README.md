@@ -34,4 +34,6 @@ Micah Kate Arayan —
 Frederick Ramirez —
 
 good morning
-RonandFriends
+Ron Albert Sarigumba
+Jeza Mae Salazar
+John Mhico Tutor
