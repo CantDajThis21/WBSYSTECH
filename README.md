@@ -29,8 +29,12 @@ Christian Kent Gucela —
 Sigorny Lagdameo —
 John Lester Lunzaga —
 Ronieric Borres —
-Lyra Gleenith Nakila —
+
 Micah Kate Arayan — 
 Frederick Ramirez —
 
 good morning
+
+Nakila
+Lofranco
+Kasil
