@@ -29,7 +29,9 @@ Sigorny Lagdameo —
 John Lester Lunzaga —
 Ronieric Borres —
 Lyra Gleenith Nakila —
-Micah Kate Arayan — 
+Frederick Ramirez —
+Joshua Orozco —
+Christian Kent Gucela —
 
 
 good morning
