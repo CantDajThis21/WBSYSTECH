@@ -14,7 +14,7 @@ Mayjoy Cillo —
 Faizza Billonid —
 
 Mel kenneth Exclamador —
-Ron Albert Sarigumba —
+
 Rafael Reglo Virtudazo —
 Jose Evagelous Lawenko II —
 Trixy F. Lofranco —
@@ -25,16 +25,15 @@ Reymart Jamili —
 Sunny Rose Kasil —
 Jhon Mico Tutor —
 Jeza Mae R. Salazar —
+Christian Kent Gucela —
 Sigorny Lagdameo —
 John Lester Lunzaga —
 Ronieric Borres —
 Lyra Gleenith Nakila —
+Micah Kate Arayan — 
 Frederick Ramirez —
 Joshua Orozco —
 Christian Kent Gucela —
 
 
-GOOD MORNING 
-VLDC HERE
-Sumayod Pameleh
-RonAndFriends 
+good morning
