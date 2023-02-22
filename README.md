@@ -35,3 +35,4 @@ Frederick Ramirez —
 
 GOOD MORNING 
 VLDC HERE
+SHAT TA GARAGE HA FRIDAY
