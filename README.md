@@ -25,7 +25,7 @@ Reymart Jamili —
 Sunny Rose Kasil —
 Jhon Mico Tutor —
 Jeza Mae R. Salazar —
-Christian Kent Gucela —
+
 Sigorny Lagdameo —
 John Lester Lunzaga —
 Ronieric Borres —
