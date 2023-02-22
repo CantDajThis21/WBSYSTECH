@@ -34,3 +34,6 @@ Christian Kent Gucela —
 
 
 GOOD MORNING
+Micah Kate Arayan
+Ferdinand Inchoco
+Joshua Orozco
