@@ -30,6 +30,7 @@ John Lester Lunzaga —
 Ronieric Borres —
 Lyra Gleenith Nakila —
 Micah Kate Arayan — 
+Christian Kent Gucela 
 
 
 good morning
