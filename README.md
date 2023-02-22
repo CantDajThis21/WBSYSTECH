@@ -12,7 +12,7 @@ Clyde Cutimar —
 Charl Vincent Sumayod —
 Mayjoy Cillo —
 Faizza Billonid —
-Ian Deliezo —
+
 Mel kenneth Exclamador —
 Ron Albert Sarigumba —
 Rafael Reglo Virtudazo —
@@ -35,3 +35,5 @@ Frederick Ramirez —
 
 GOOD MORNING 
 VLDC HERE
+SHAT TA GARAGE HA FRIDAY
+BAHALA KA
