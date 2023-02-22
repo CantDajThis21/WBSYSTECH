@@ -24,13 +24,13 @@ Micah Kate Arayan —
 Reymart Jamili —
 Sunny Rose Kasil —
 
-Jeza Mae R. Salazar —
+
 Christian Kent Gucela —
 Sigorny Lagdameo —
 John Lester Lunzaga —
 Ronieric Borres —
 Lyra Gleenith Nakila —
-Micah Kate Arayan — 
+Micah Kate Arayan —
 Frederick Ramirez —
 
 good morning
