@@ -12,7 +12,6 @@ Clyde Cutimar —
 Charl Vincent Sumayod —
 Mayjoy Cillo —
 Faizza Billonid —
-
 Mel kenneth Exclamador —
 Ron Albert Sarigumba —
 Rafael Reglo Virtudazo —
@@ -34,7 +33,4 @@ Joshua Orozco —
 Christian Kent Gucela —
 
 
-GOOD MORNING 
-VLDC HERE
-Sumayod Pameleh
-RonAndFriends 
+GOOD MORNING
