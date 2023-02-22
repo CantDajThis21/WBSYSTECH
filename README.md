@@ -9,7 +9,7 @@ February 15, 2022
 
 Rancil Aurora —
 Clyde Cutimar —
-Charl Sumayod —
+Charl Vincent Sumayod —
 Mayjoy Cillo —
 Faizza Billonid —
 Ian Deliezo —
