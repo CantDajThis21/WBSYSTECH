@@ -10,27 +10,3 @@ February 15, 2022
 Rancil Aurora —
 Clyde Cutimar —
 Charl Vincent Sumayod —
-Mayjoy Cillo —
-Faizza Billonid —
-Ian Deliezo —
-Mel kenneth Exclamador —
-Ron Albert Sarigumba —
-Rafael Reglo Virtudazo —
-Jose Evagelous Lawenko II —
-Trixy F. Lofranco —
-Xavier Bugtong —
-Ferdinand Inchoco —
-Micah Kate Arayan —
-Reymart Jamili —
-Sunny Rose Kasil —
-Jhon Mico Tutor —
-Jeza Mae R. Salazar —
-Christian Kent Gucela —
-Sigorny Lagdameo —
-John Lester Lunzaga —
-Ronieric Borres —
-Lyra Gleenith Nakila —
-Micah Kate Arayan — 
-Frederick Ramirez —
-
-good morning
