@@ -5,4 +5,6 @@ Hi this is Daj and today we will learn about branches! But before that we need t
 
 Please put your names below
 
-February 15, 2022
+February 22, 2022
+
+Virtudazo, Lagdameo, Deliezo, Cutimar,
