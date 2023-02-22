@@ -14,7 +14,7 @@ Mayjoy Cillo —
 Faizza Billonid —
 Ian Deliezo —
 Mel kenneth Exclamador —
-Ron Albert Sarigumba —
+
 Rafael Reglo Virtudazo —
 Jose Evagelous Lawenko II —
 Trixy F. Lofranco —
