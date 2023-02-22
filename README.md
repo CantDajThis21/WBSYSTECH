@@ -34,3 +34,7 @@ Micah Kate Arayan —
 
 
 good morning
+
+John Lester Lunzaga
+Ronieric Borres
+Reymart Jamili
