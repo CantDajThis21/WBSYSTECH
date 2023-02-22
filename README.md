@@ -35,3 +35,6 @@ Christian Kent Gucela —
 
 
 good morning
+
+Rancil Aurora
+Xavier Bugtong
