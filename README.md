@@ -17,21 +17,7 @@ Mel kenneth Exclamador —
 Ron Albert Sarigumba —
 Rafael Reglo Virtudazo —
 Jose Evagelous Lawenko II —
-Trixy F. Lofranco —
-Xavier Bugtong —
-Ferdinand Inchoco —
-Micah Kate Arayan —
-Reymart Jamili —
-Sunny Rose Kasil —
-Jhon Mico Tutor —
-Jeza Mae R. Salazar —
-Sigorny Lagdameo —
-John Lester Lunzaga —
-Ronieric Borres —
-Lyra Gleenith Nakila —
-Frederick Ramirez —
-Joshua Orozco —
-Christian Kent Gucela —
+
 
 
 GOOD MORNING
