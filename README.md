@@ -7,8 +7,31 @@ Please put your names below
 
 February 15, 2022
 
+Rancil Aurora —
+Clyde Cutimar —
+Charl Vincent Sumayod —
+Mayjoy Cillo —
+Faizza Billonid —
+Mel kenneth Exclamador —
+Ron Albert Sarigumba —
+Rafael Reglo Virtudazo —
+Jose Evagelous Lawenko II —
+Trixy F. Lofranco —
+Xavier Bugtong —
+Reymart Jamili —
+Sunny Rose Kasil —
+Jhon Mico Tutor —
+Jeza Mae R. Salazar —
+Sigorny Lagdameo —
+John Lester Lunzaga —
+Ronieric Borres —
+Lyra Gleenith Nakila —
+Frederick Ramirez —
+Christian Kent Gucela —
 
 
-good morning
+GOOD MORNING
 
-trixy lofranco
+Nakila
+Lofranco
+Kasil
