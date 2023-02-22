@@ -8,13 +8,11 @@ Please put your names below
 February 15, 2022
 
 Rancil Aurora —
-Clyde Cutimar —
 Charl Vincent Sumayod —
 Mayjoy Cillo —
 Faizza Billonid —
 Mel kenneth Exclamador —
 Ron Albert Sarigumba —
-Rafael Reglo Virtudazo —
 Jose Evagelous Lawenko II —
 Trixy F. Lofranco —
 Xavier Bugtong —
@@ -34,3 +32,6 @@ Christian Kent Gucela —
 
 
 GOOD MORNING
+
+Clyde Cutimar —
+Rafael Reglo Virtudazo —
