@@ -39,3 +39,4 @@ SHAT TA GARAGE HA FRIDAY
 BAHALA KA
 
 200 daw RR 1 bot IAN 
+oo sige ako 200 - RR
