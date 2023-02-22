@@ -12,7 +12,7 @@ Clyde Cutimar —
 Charl Vincent Sumayod —
 Mayjoy Cillo —
 Faizza Billonid —
-Ian Deliezo —
+
 Mel kenneth Exclamador —
 Ron Albert Sarigumba —
 Rafael Reglo Virtudazo —
@@ -33,4 +33,5 @@ Lyra Gleenith Nakila —
 Micah Kate Arayan — 
 
 
-good morning
+GOOD MORNING 
+VLDC HERE
