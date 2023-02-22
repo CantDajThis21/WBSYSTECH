@@ -8,7 +8,6 @@ Please put your names below
 February 15, 2022
 
 Rancil Aurora —
-Faizza Billonid -
 Clyde Cutimar —
 Ian Deliezo —
 Mel kenneth Exclamador —
