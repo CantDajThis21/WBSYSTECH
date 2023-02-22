@@ -7,4 +7,4 @@ Please put your names below
 
 February 22, 2022
 
-Virtudazo, Lagdameo, Deliezo, Cutimar,
+Virtudazo, Lagdameo, Deliezo, Cutimar, Bongo
