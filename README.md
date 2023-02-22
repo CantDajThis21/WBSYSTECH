@@ -25,7 +25,6 @@ Reymart Jamili —
 Sunny Rose Kasil —
 Jhon Mico Tutor —
 Jeza Mae R. Salazar —
-
 Sigorny Lagdameo —
 John Lester Lunzaga —
 Ronieric Borres —
@@ -34,7 +33,3 @@ Micah Kate Arayan —
 
 
 good morning
-
-John Lester Lunzaga
-Ronieric Borres
-Reymart Jamili
