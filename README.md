@@ -12,9 +12,7 @@ Clyde Cutimar —
 Charl Vincent Sumayod —
 Mayjoy Cillo —
 Faizza Billonid —
-
 Mel kenneth Exclamador —
-
 Rafael Reglo Virtudazo —
 Jose Evagelous Lawenko II —
 Trixy F. Lofranco —
@@ -34,6 +32,5 @@ Micah Kate Arayan —
 Frederick Ramirez —
 Joshua Orozco —
 Christian Kent Gucela —
-.
 
 good morning
