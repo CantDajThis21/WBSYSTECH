@@ -25,7 +25,6 @@ Jhon Mico Tutor —
 Jeza Mae R. Salazar —
 Christian Kent Gucela —
 Sigorny Lagdameo —
-John Lester Lunzaga —
 Ronieric Borres —
 Lyra Gleenith Nakila —
 Micah Kate Arayan — 
