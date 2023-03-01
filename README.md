@@ -33,7 +33,8 @@ Lyra Gleenith Nakila —
 Micah Kate Arayan —
 Frederick Ramirez —
 
-good morning
+Good Morning __________________Team Ron and Friends ___________________ Good Morning
+
 Ron Albert Sarigumba
 Jeza Mae Salazar
 John Mhico Tutor
